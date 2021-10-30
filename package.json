@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amanda-natallie/design-system/issues"
   },
-  "homepage": "https://github.com/amanda-natallie/design-system#readme"
+  "homepage": "https://github.com/amanda-natallie/design-system#readme",
+  "publishConfig": {
+   "@amanda-natallie:registry": "https://npm.pkg.github.com"
+ }
 }
