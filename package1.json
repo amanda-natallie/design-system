@@ -1,0 +1,22 @@
+{
+  "name": "@amanda-natallie/design-system",
+  "version": "1.0.0",
+  "description": "Design System for my Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanda-natallie/design-system.git"
+  },
+  "author": "Amanda Natallie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanda-natallie/design-system/issues"
+  },
+  "homepage": "https://github.com/amanda-natallie/design-system#readme",
+  "publishConfig": {
+   "@amanda-natallie:registry": "https://npm.pkg.github.com"
+ }
+}
